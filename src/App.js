@@ -31,12 +31,10 @@ function App() {
       }
       if (isUnique) {
         setUnic(true);
-        console.log("Все элементы уникальны");
       }
       else
       {
         setUnic(false);
-        console.log("Есть повторяющиеся элементы");
       }
     };
 
