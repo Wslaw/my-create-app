@@ -63,7 +63,7 @@ function App() {
             Submit
           </button>
         </form>
-        {isSubmitted && <h2 className={styles.txt}> {unic ? "Усі елементи унікальні" : "Є елементи, що повторюються"}</h2>}
+        <div className={styles.message}>{isSubmitted && <h2 className={styles.txt}>{unic ? "Усі елементи унікальні" : "Є елементи, що повторюються"}</h2>}</div>{" "}
       </header>
     </div>
   );
