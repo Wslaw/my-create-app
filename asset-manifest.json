@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Wslaw/my-create-app/static/css/main.cb853917.css",
-    "main.js": "/Wslaw/my-create-app/static/js/main.d2d2fa9a.js",
-    "index.html": "/Wslaw/my-create-app/index.html",
-    "main.cb853917.css.map": "/Wslaw/my-create-app/static/css/main.cb853917.css.map",
-    "main.d2d2fa9a.js.map": "/Wslaw/my-create-app/static/js/main.d2d2fa9a.js.map"
+    "main.css": "/my-create-app/static/css/main.cb853917.css",
+    "main.js": "/my-create-app/static/js/main.d2d2fa9a.js",
+    "index.html": "/my-create-app/index.html",
+    "main.cb853917.css.map": "/my-create-app/static/css/main.cb853917.css.map",
+    "main.d2d2fa9a.js.map": "/my-create-app/static/js/main.d2d2fa9a.js.map"
   },
   "entrypoints": [
     "static/css/main.cb853917.css",
