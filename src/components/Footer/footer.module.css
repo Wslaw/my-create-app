@@ -1,0 +1,7 @@
+.section{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(133, 172, 183);
+    width: 100vw;
+    flex-grow: 1;
+}

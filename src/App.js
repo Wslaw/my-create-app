@@ -1,12 +1,17 @@
 import React from "react";
-import FirstTask from "./components/FirstTask/FirstTask";
+import HomePage from "./Pages/HomePage/HomePage";
+import Footer from "./components/Footer/Footer";
+import Header from "./components/Header/Header";
 
+import styles from "./app.module.css";
 
 function App() {
-  
   return (
-    <FirstTask/> 
-  
-  )
-  }
+    <div className={styles.container}>
+      <Header />
+      <HomePage />
+      <Footer />
+    </div>
+  );
+}
 export default App;

@@ -1,6 +1,11 @@
-const SecondTask = () => {
-    return (<>
-    </>);
-};
+import React from 'react'
 
-export default SecondTask;
+const SecondTask = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default SecondTask
