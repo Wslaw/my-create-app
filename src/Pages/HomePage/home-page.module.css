@@ -1,0 +1,8 @@
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    flex-grow: 8;
+    background-color: rgb(129, 182, 182);
+}
