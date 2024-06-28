@@ -8,9 +8,7 @@ import styles from "./app.module.css";
 function App() {
   return (
     <div className={styles.container}>
-      <Header />
       <HomePage />
-      <Footer />
     </div>
   );
 }
